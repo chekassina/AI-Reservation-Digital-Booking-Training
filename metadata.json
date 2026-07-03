@@ -1,0 +1,8 @@
+{
+  "name": "CyberGraduates - AI Reservation Academy",
+  "description": "Interactive training website for hotel and safari reservation departments using AI booking systems, PMS, CRS, and de-escalation models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
